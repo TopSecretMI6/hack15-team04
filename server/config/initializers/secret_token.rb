@@ -16,4 +16,4 @@
 # Using secret_token for rails3 compatibility. Change to secret_key_base
 # to avoid deprecation warning.
 # Can be safely removed in a rails3 api-only application.
-SafeJourneyApp::Application.config.secret_token = '502e7517469d7940a7207b6319c3385d8ff95e57e17392fc8103179258f8d373f1f660d4f99ae8c60af1a5505f3ceaa4303a02d4e95a3b8b153fe1a1e56613e8'
+SafeTripsApp::Application.config.secret_token = '7f92d4b02bb97c993ca57e7fdf8e193e874aeb75cab4a553c4bd13352a887ecddc38e2b7a38320f5491a343413d5a8998a0069a87b3a9c9a2702518ce0db2664'
