@@ -10,6 +10,8 @@ gem 'pg'
 
 gem 'thin'
 
+gem 'devise'
+
 group :development, :test do
   gem 'rails-pry'
   gem 'pry'
